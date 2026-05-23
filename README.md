@@ -1,5 +1,3 @@
-Here’s your **final corrected README.md text** 👇
-
 ---
 
 # 🌊 Water Quality Index (WQI) Prediction System
@@ -111,7 +109,3 @@ After entering the input values, the model predicts:
 * **Backend:** Flask (Python)
 * **Frontend:** HTML, CSS, JavaScript
 * **ML Libraries:** scikit-learn, pandas, numpy, matplotlib
-
----
-
----
